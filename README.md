@@ -9,6 +9,7 @@ sistema:
 Etapa 1 – Formação da Equipe e Identificação do Objeto de Trabalho (1º
 Semestre): Formação das equipes de desenvolvimento, compostas pelos
 alunos. Definição do segmento ou instituição-alvo para o projeto.
+
 • Administração Geral (20h Extensão):
 Levantamento e descrição do público-alvo.
 Mapeamento das informações sobre produtos, serviços, processos
@@ -17,6 +18,7 @@ e estrutura organizacional da instituição escolhida.
 Etapa 2 – Levantamento e Análise de Requisitos (2º Semestre):
 Concepção inicial da solução tecnológica. Identificação das necessidades
 do público-alvo e levantamento de requisitos do sistema.
+
 • Sistemas de Informação (20h Extensão):
 Definição e descrição das funcionalidades do sistema, propostas
 pelos alunos.
@@ -27,6 +29,7 @@ para gerenciamento dos projetos.
 
 Etapa 3 – Modelagem e Implementação Inicial (3º Semestre) :
 Desenvolvimento das primeiras estruturas técnicas do sistema.
+
 • Engenharia de Software II (20h Extensão):
 Revisão e validação dos requisitos. Criação dos modelos do
 sistema, incluindo diagramas de classes, casos de uso,
